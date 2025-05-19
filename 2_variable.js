@@ -1,4 +1,4 @@
-const accountId = 1430 // const is a constant variable jisko ek baar set krne ke baad chnage ni kar skte ye poore program me constant hi rhta hai
+const accountId = 1430 // const is a constant variable jisko ek baar set krne ke baad change ni kar skte ye poore program me constant hi rhta hai
 
 //JavaScript me let and var two type se varibale ko declear kr skte hai  
 let accountEmail = "harsh@google.com" 

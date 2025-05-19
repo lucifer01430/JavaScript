@@ -11,22 +11,57 @@ Welcome! This repository contains my ongoing practice files as I learn JavaScrip
 
 ---
 
+
 ## 📚 Currently Covered Topics
 
 - 1_test.js  
   - Basics of JavaScript  
-  - Introduction to console.log function  
+  - Introduction to `console.log` function  
   - What is JavaScript and Node.js  
 
 - 2_variable.js  
-  - Variable declaration with const, let, var, and without keyword  
-  - Difference between const, let, and var  
+  - Variable declaration with `const`, `let`, `var`, and without keyword  
+  - Difference between `const`, `let`, and `var`  
   - Understanding scope  
-  - Printing variables using console.log and console.table  
+  - Printing variables using `console.log` and `console.table`  
   - Comments in JavaScript  
-  - Explanation of braces, brackets, parentheses, angle brackets, and comments  
+  - Explanation of braces `{}`, brackets `[]`, parentheses `()`, angle brackets `<>`, and comments  
+
+- 3_dataTypes.js  
+  - `"use strict"` — what it does and why it’s now mostly redundant  
+  - `alert()` in browser vs Node.js  
+  - Console behavior in Node  
+  - ECMAScript documentation link (`https://tc39.es/ecma262/`)  
+  - Declaring variables with different data types  
+  - JavaScript Data Types:  
+    - Number  
+    - BigInt  
+    - String  
+    - Boolean  
+    - Null  
+    - Undefined  
+    - Symbol  
+    - Object  
+  - Using `typeof` to detect data types  
+  - `typeof null` returns `'object'` (because JavaScript is drunk)
+
+- 4_ConversionOperations.js  
+  - Type conversion using `Number()`  
+  - Type conversion using `Boolean()`  
+  - Conversion behavior:  
+    - `"33"` → 33  
+    - `"33abc"` → NaN  
+    - `true` → 1  
+    - `false` → 0  
+    - `null` → 0  
+    - `undefined` → NaN  
+    - `""` → false  
+    - `"Ram"` → true  
+  - Checking types using `typeof`  
+  - Boolean coercion logic in JavaScript  
 
 ---
+
 
 ## 🗂️ Folder / File Structure
 

@@ -38,3 +38,5 @@ console.log(typeof BigInt(1234567890123456789012345678901234567890)) //bigint
 console.log(typeof null) //object 
 console.log(typeof undefined) //undefined
 
+
+
